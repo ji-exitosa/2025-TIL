@@ -1,0 +1,12 @@
+- Next.js 란?
+	- Node.js를 기반으로 만들어진 오픈소스 웹프레임워크
+	- Next.js is a popular open-source web framework built on top of Node.js
+- 특징
+	- SSR 지원 - enables server-side rendering(SSR)
+		- 향상된 성능의 SEO(검색 엔진 최적화)
+		- 페이지 로딩 시간이 더 빨라짐(특히 동적 데이터와 API를 지원하는 경우에는 더 좋은 서포팅이 된다!)
+		- CSS, images, 그리고 다른 assets가 포함된 내장 도구를 지원하면서 보다 간편화된 개발 경험을 제공한다고 한다.
+	- SSG 지원 - enables static site generation(SSG) for React applications.
+	- 라우틴 간편
+	- 자동 코드 분할
+	- 고성능 웹을 구축하기 위한 최적화와 기능
