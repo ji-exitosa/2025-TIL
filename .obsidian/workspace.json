@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5bdc9ca1ceca5123",
+        "id": "9d4863e8b1d08109",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/모던자바스크립트 Deep Dive/목차.md",
+                "file": "React/공식문서/00_UI 표현하기/04_중괄호가 있는 JSX 안에서 자바스크립트 사용하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "목차"
+              "title": "04_중괄호가 있는 JSX 안에서 자바스크립트 사용하기"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -77,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 361.5,
+    "collapsed": true
   },
   "right": {
     "id": "dce3d00ac806692f",
@@ -154,32 +156,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "ec7c07466a527b5e",
   "lastOpenFiles": [
-    "_TODO/todo.md",
-    "자바스크립트.md",
+    "React/공식문서/00_UI 표현하기/03_JSX로 마크업 작성하기.md",
+    "React/공식문서/00_UI 표현하기/01_첫 번째 컴포넌트.md",
+    "React/공식문서/00_UI 표현하기/02_컴포넌트 import 및 export 하기.md",
+    "(분리 방법 보러가기).md",
+    "React/공식문서/00_UI 표현하기/00_UI 표현하기.md",
+    "React/공식문서/00_UI 표현하기/09_트리로서의 UI.md",
+    "React/공식문서/00_UI 표현하기/무제",
+    "React/공식문서/00_UI 표현하기/08_컴포넌트를 순수하게 유지하기.md",
+    "React/공식문서/00_UI 표현하기/07_리스트 렌더링.md",
+    "React/공식문서/00_UI 표현하기/06_조건부 렌더링.md",
+    "React/공식문서/00_UI 표현하기/05_컴포넌트에 Props 전달하기.md",
+    "React/공식문서/00_UI 표현하기/04_중괄호가 있는 JSX 안에서 자바스크립트 사용하기.md",
+    "React/공식문서/목차.md",
+    "React/공식문서/03_탈출구",
+    "React/공식문서/02_State 관리하기",
+    "React/공식문서/01_상호작용성 더하기",
+    "React/공식문서/00_UI 표현하기",
+    "React/모던리액트 Deep Dive/목차.md",
     "Javascript/모던자바스크립트 Deep Dive/목차.md",
-    "Javascript/기타/class vs interface.md",
-    "Javascript/기타/클래스 내 'method' vs '화살표 함수'.md",
-    "Javascript/공식문서/var - let - const.md",
     "Javascript/공식문서/목차.md",
-    "Web/웹 브라우저 동작 원리/웹 브라우저 동작 원리.md",
-    "_TODO",
+    "React/공식문서",
+    "CS/복습/자료구조/복습.md",
+    "CS/복습/자료구조/자료구조 요약.md",
+    "CS/복습/소프트웨어공학.md",
+    "CS/복습/프로그래밍 패러다임.md",
+    "CS/복습/알고리즘/기본기.md",
+    "CS/복습/알고리즘",
+    "CS/복습/네트워크/네트워크 요약.md",
+    "CS/복습/네트워크/기본기.md",
+    "CS/복습/네트워크/기본용어.md",
+    "Pasted image 20250126154313.png",
+    "Pasted image 20250126154306.png",
+    "CS/복습/네트워크/네트워크_04.png",
+    "CS/복습/데이터베이스/데이터베이스.md",
+    "CS/복습/데이터베이스/데이터베이스_01.png",
+    "CS/복습/데이터베이스",
+    "CS/복습/네트워크/네트워크_03.png",
+    "CS/복습/네트워크/네트워크_02.png",
+    "CS/복습/네트워크/네트워크_01.png",
+    "Pasted image 20250126143516.png",
+    "CS/복습/네트워크",
+    "CS/복습/운영체제/운영체제.md",
+    "CS/복습/자료구조",
+    "CS/복습/컴퓨터구조/컴퓨터구조.md",
     "Typescript/타입스크립트 핸드북/01_Fundamentals/Fundamentals_02.png",
-    "Typescript/타입스크립트 핸드북/02_Usage/Usage.md",
-    "Typescript/타입스크립트 핸드북/04_ETC/ETC.md",
-    "Typescript/타입스크립트 핸드북/01_Fundamentals/Fundamentals_01.png",
-    "Typescript/타입스크립트 핸드북/01_Fundamentals/Fundamentals.md",
-    "Typescript/공식문서/목차.md",
-    "Nuxt/Nuxtjs.md",
-    "Next/Nextjs.md"
+    "Typescript/타입스크립트 핸드북/01_Fundamentals/Fundamentals_01.png"
   ]
 }
