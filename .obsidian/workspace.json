@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/공식문서/01_상호작용성 더하기/01_이벤트에 응답하기.md",
+                "file": "React/공식문서/01_상호작용성 더하기/00_상호작용성 더하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_이벤트에 응답하기"
+              "title": "00_상호작용성 더하기"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "7ab5fd36551a6cdb",
   "lastOpenFiles": [
-    "React/공식문서/01_상호작용성 더하기/00_상호작용성 더하기.md",
     "React/공식문서/01_상호작용성 더하기/01_이벤트에 응답하기.md",
+    "React/공식문서/01_상호작용성 더하기/00_상호작용성 더하기.md",
     "React/공식문서/00_UI 표현하기/00_UI 표현하기.md",
     "React/공식문서/00_UI 표현하기/09_트리로서의 UI.md",
     "React/공식문서/00_UI 표현하기/08_컴포넌트를 순수하게 유지하기.md",
